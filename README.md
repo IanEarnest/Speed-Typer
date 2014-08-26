@@ -1,38 +1,44 @@
-Space Marbles
+Speed Typer
 ====
+
+This is a GUI only game based of the Finger Frenzy flash game.
 
 Made with Unity.
 
-Version 0.1.2
+Version 0.1.1
+
+Old script still attached but disabled.
+
+Styling is toggled.
 
 To-do list
 ==========
 
-&#x2611; Player
-
-- &#x2611; Player movement
-	
-- &#x2611; Shooting
-	
-- &#x2611; Movement restriction
-	
-- &#x2611; Ball collision
-	
 &#x2611; Levels
 
 - &#x2611; Menu
 	
 - &#x2611; Game
 	
-- &#x2611; Many levels
+- &#x2611; Options
 
 &#9744; Extras
 
-- &#x2611; Publish web player
+- &#x2611; High scores
 
-- &#x2611; Settings
+- &#9744; Styled graphics
 
-- &#9744; High scores
+- &#9744; Resizing menus
+
+- &#x2611; Survival
+
+- &#x2611; Custom game
+
+- &#x2611; Other challenges
+
+- &#x2611; Description of challenges
+
+- &#x2611; High score for challenges
 
 
 
