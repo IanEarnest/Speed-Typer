@@ -4,14 +4,10 @@ Speed Typer
 Introduction
 ------------
 
-This is a GUI only game made using Unity, based on the Finger Frenzy flash game.
-
-Type as fast and accurate as you can to complete each challenge.
+This is a GUI only game made using Unity, based on the Finger Frenzy flash game. Type as fast and accurate as you can to complete each challenge.
 
 
-Old script still attached but disabled.
-
-Styling is toggled.
+Old script still attached but disabled. Styling is toggled.
 
 Version 0.1.1
 
